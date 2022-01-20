@@ -11,13 +11,13 @@
 <div align="center">
 
 About me:
-  🔭 I’m currently working on random projects that peek my interest.<br>
-  🌱 I’m currently learning a bunch of things related to Software Developement.<br>
-  🤓 AI, Game Developement and Web Developement nerd.<br>
+  🔭 I’m currently working on random projects that peek my interest. <br>
+  🌱 I’m currently learning a bunch of things related to Software Developement. <br>
+  🤓 AI, Game Developement and Web Developement nerd. <br>
   ⚡ I play video games in my free time.
 </div>
-
+<!-- 
 <div align="center">
 <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
-</div>
+</div> -->
