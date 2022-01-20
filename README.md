@@ -16,11 +16,14 @@
 </div>
 <div align="center">
   <h3>⚙ Tech Skills:</h3>
-  🌐 HTML  |  CSS  |  JavaScript  |  SCSS <br>
+  🌐 HTML | CSS | JavaScript | SCSS <br>
   🛢 XAMPP | SQL | RB <br>
   💻 PHP | C | Python | Java <br> 
   🔧 VSC | IntelliJ | Git <br> 
-  
+</div>
+<div align="center">
+  🤝🏻 <h3>Find me on:</h3>
+  <a href="https://www.linkedin.com/in/julian-roeland/"><img align="center" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/linkedin_logo_icon_147268.png"></a>
 </div>
 <!-- 
 <div align="center">
