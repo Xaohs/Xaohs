@@ -10,7 +10,7 @@
 
 <div align="center">
 
-About me
+### About me
   🔭 I’m currently working on random projects that peek my interest. 
   🌱 I’m currently learning a bunch of things related to Software Developement.
   🤓 AI, Game Developement and Web Developement nerd.
