@@ -14,8 +14,12 @@
   - 🤓 AI, Game Developement and Web Developement nerd. <br>
   - ⚡ I play video games in my free time.
 </div>
-<div>
-  ### ⚙ Tech Skills:
+<div align="center">
+  <h3>⚙ Tech Skills:</h3>
+  🌐 HTML | CSS | JavaScript | SCSS
+  🛢 XAMPP | SQL | RB
+  💻 PHP | C | Python | Java
+  🔧 VSC | IntelliJ | Git
   
 </div>
 <!-- 
