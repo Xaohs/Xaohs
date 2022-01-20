@@ -8,8 +8,8 @@
 
 </div> -->
 
-<div align="center">
   ℹ About me: <br>
+  <div align="center">
   🔭 I’m currently working on random projects that peek my interest. <br>
   🌱 I’m currently learning a bunch of things related to Software Developement. <br>
   🤓 AI, Game Developement and Web Developement nerd. <br>
