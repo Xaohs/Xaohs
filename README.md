@@ -9,12 +9,10 @@
 </div> -->
 <div align="center">
   <h3>ℹ About me:</h3>
-  <ul>
-    <li>- 🔭 I’m currently working on random projects that peek my interest.</li> <br>
+  - 🔭 I’m currently working on random projects that peek my interest. <br>
   - 🌱 I’m currently learning a bunch of things related to Software Developement. <br>
   - 🤓 AI, Game Developement and Web Developement nerd. <br>
   - ⚡ I play video games in my free time.
-  </ul>
 </div>
 <div>
   ### ⚙ Tech Skills:
