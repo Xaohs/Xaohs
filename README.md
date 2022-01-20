@@ -23,7 +23,7 @@
 </div>
 <div align="center">
   🤝🏻 <h3>Find me on:</h3>
-  <a href="https://www.linkedin.com/in/julian-roeland/"><img align="center" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/linkedin_logo_icon_147268.png" width="30px"></a>
+  <a href="https://www.linkedin.com/in/julian-roeland/"><img align="center" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/linkedin_logo_icon_147268.png" width="40px"></a>
 </div>
 <!-- 
 <div align="center">
