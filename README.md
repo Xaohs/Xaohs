@@ -24,7 +24,7 @@
 <div align="center">
   🤝🏻 <h3>Find me on:</h3>
   <a href="https://www.linkedin.com/in/julian-roeland/"><img align="center" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/linkedin_logo_icon_147268.png" width="40px"></a>
-  <a href="https://www.julianroeland.nl"><img align="center" src="https://image.pngaaa.com/405/4658405-middle.png" width="40px"></a>
+  <a href="http://www.julianroeland.nl"><img align="center" src="https://image.pngaaa.com/405/4658405-middle.png" width="40px"></a>
 </div>
 <!-- 
 <div align="center">
