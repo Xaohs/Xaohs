@@ -8,7 +8,7 @@
 
 </div> -->
 
-              ℹ About me: <br>
+   <h3>ℹ About me: </h3> <br>
   <div align="center">
   🔭 I’m currently working on random projects that peek my interest. <br>
   🌱 I’m currently learning a bunch of things related to Software Developement. <br>
