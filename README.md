@@ -16,10 +16,10 @@
 </div>
 <div align="center">
   <h3>⚙ Tech Skills:</h3>
-  🌐 HTML | CSS | JavaScript | SCSS
-  🛢 XAMPP | SQL | RB
-  💻 PHP | C | Python | Java
-  🔧 VSC | IntelliJ | Git
+  🌐 HTML | CSS | JavaScript | SCSS <br>
+  🛢 XAMPP | SQL | RB <br>
+  💻 PHP | C | Python | Java <br> 
+  🔧 VSC | IntelliJ | Git <br> 
   
 </div>
 <!-- 
