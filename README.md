@@ -14,9 +14,9 @@
 </div>
 <div align="center">
   <h3>⚙ Tech Skills:</h3>
-  🌐 HTML | CSS | JavaScript | SCSS <br>
+  🌐 HTML | CSS | Typescript | React | NextJS <br>
   🛢 XAMPP | SQL | RB <br>
-  💻 PHP | C | Python | Java <br> 
+  💻 PHP | C | Python | Java | Server Manegement<br> 
   🔧 VSC | IntelliJ | Git <br> 
 </div>
 <div align="center">
