@@ -16,7 +16,7 @@
   <h3>⚙ Tech Skills:</h3>
   🌐 HTML | CSS | Typescript | React | NextJS <br>
   🛢 XAMPP | SQL | RB <br>
-  💻 PHP | C | Python | Java | Server Manegement<br> 
+  💻 PHP | C | Python | Java | NodeJS | Server Manegement<br> 
   🔧 VSC | IntelliJ | Git <br> 
 </div>
 <div align="center">
